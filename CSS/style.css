@@ -1,0 +1,25 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+ *{
+      font-family: 'Poppins', sans-serif;
+}
+.banner-img{
+   width: 1340px;
+   height: 600px;
+   background: rgb(2, 0, 36);
+      background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(37, 62, 65, 1) 39%, rgba(0, 212, 255, 1) 100%);
+   }
+.banner-text{
+   margin-top: 250px;
+   margin-left: 200px;
+}
+.banner-text h1{
+   font-weight:bolder;
+   font-size: 50px;
+}
+.banner-text button{
+   padding: 15px;
+   border-radius: 200px;
+   color: white;
+   background-color: rgb(108, 107, 107);
+}
